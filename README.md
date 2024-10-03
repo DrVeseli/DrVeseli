@@ -1,4 +1,4 @@
-CTO of Cqwense \ [cqwens.com]
+CTO of [Cqwens](cqwens.com)
 
 <!---
 DrVeseli/DrVeseli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
